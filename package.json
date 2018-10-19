@@ -1,0 +1,26 @@
+{
+  "name": "vulnerables",
+  "version": "0.0.1",
+  "description": "A sample project depending on a vulnerable library",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "engines": {
+    "node": "4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Any-berg/vulnerables"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Antti-Henrik Nyberg",
+  "contributors": [
+    "Abel Vulner <abel.vulner@example.com> (http://example.com)"
+  ]
+}
